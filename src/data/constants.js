@@ -7,7 +7,7 @@ export const Bio = {
     "Desenvolvedor",
   ],
   description:
-    "Sou um desenvolvedor Fullstack de 22 anos, formado em Bacharelado em Sistemas de Informação. Atualmente, atuo como Desenvolvedor Jr e estou sempre em busca de novos desafios. Com paixão por tecnologia e aprendizado contínuo, me dedico a entregar soluções de alta qualidade. Estou disponível para freelas e oportunidades de negócio, pronto para contribuir de forma significativa e alcançar grandes resultados.",
+    "Sou um desenvolvedor Fullstack de 22 anos, formado em Bacharelado em Sistemas de Informação. Atualmente, atuo como Desenvolvedor Jr e estou sempre em busca de novos desafios. Com paixão por tecnologia e aprendizado contínuo, me dedico a entregar soluções de alta qualidade.",
   github: "https://github.com/Matsu-ki",
   resume:
     "https://eduardo-portfolio-six.vercel.app/static/media/Eduardo_Varjao_Dias.f937da714dc3ff941819.pdf",
