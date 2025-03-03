@@ -324,8 +324,6 @@ export const projects = [
       "https://i.imgur.com/s8u3z1X.png",
     tags: ["Unity", "Unity Store", "C#"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
   },
   {
     id: 5,
