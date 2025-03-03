@@ -213,15 +213,7 @@ export const education = [
     desc: "Com muito esforço me formei como Bacharel em Sistemas de Informação na UNIRIOS localizada em Paulo Afonso - Bahia.",
     degree: "Bacharelado em Sistemas de Informação",
   },
-  {
-    id: 1,
-    img: "https://softwell.com.br/wp-content/uploads/2024/10/Logotipo.png",
-    school: "Softwell Solutions",
-    date: "Mai 2023 - Jun 2023",
-    grade: "100%",
-    desc: "Concluí o curso de Maker NoCode para atuar no desenvolvimento de softwares da empresa em que trabalho atualmente. A partir disso pude me tornar um profissional mais capacitado para utilizar a ferramenta ofertada pela empresa Softwell Solutions.",
-    degree: "Maker NoCode, Desenvolvimentod e Sistemas",
-  },
+
 ];
 
 export const projects = [
