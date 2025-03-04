@@ -32,20 +32,20 @@ const Navbar = () => {
           <MobileMenu isOpen={isOpen}>
             <MobileLink href="#about" onClick={() => {
               setIsOpen(!isOpen)
-            }}>About</MobileLink>
+            }}>Sobre</MobileLink>
             <MobileLink href='#skills' onClick={() => {
               setIsOpen(!isOpen)
-            }}>Skills</MobileLink>
+            }}>Habilidades</MobileLink>
             <MobileLink href='#experience' onClick={() => {
               setIsOpen(!isOpen)
-            }}>Experience</MobileLink>
+            }}>Experiência</MobileLink>
             <MobileLink href='#projects' onClick={() => {
               setIsOpen(!isOpen)
-            }}>Projects</MobileLink>
+            }}>Projetos</MobileLink>
             <MobileLink href='#education' onClick={() => {
               setIsOpen(!isOpen)
-            }}>Education</MobileLink>
-            <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github Profile</GitHubButton>
+            }}>Formação</MobileLink>
+            <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github</GitHubButton>
           </MobileMenu>
         }
       </NavbarContainer>
